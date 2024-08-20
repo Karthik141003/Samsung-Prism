@@ -1,0 +1,10 @@
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\obj\Debug\TcpMessageSender.csproj.AssemblyReference.cache
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\obj\Debug\TcpMessageSender.Form1.resources
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\obj\Debug\TcpMessageSender.Properties.Resources.resources
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\obj\Debug\TcpMessageSender.csproj.GenerateResource.cache
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\obj\Debug\TcpMessageSender.csproj.CoreCompileInputs.cache
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\bin\Debug\TcpMessageSender.exe.config
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\bin\Debug\TcpMessageSender.exe
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\bin\Debug\TcpMessageSender.pdb
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\obj\Debug\TcpMessageSender.exe
+C:\Users\Karthik\source\repos\TcpMessageSender\TcpMessageSender\obj\Debug\TcpMessageSender.pdb
