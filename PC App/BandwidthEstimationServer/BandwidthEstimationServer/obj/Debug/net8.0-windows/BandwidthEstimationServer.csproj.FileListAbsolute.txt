@@ -1,0 +1,16 @@
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.Form1.resources
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.csproj.GenerateResource.cache
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.AssemblyInfoInputs.cache
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.AssemblyInfo.cs
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.csproj.CoreCompileInputs.cache
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\bin\Debug\net8.0-windows\BandwidthEstimationServer.exe
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\bin\Debug\net8.0-windows\BandwidthEstimationServer.deps.json
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\bin\Debug\net8.0-windows\BandwidthEstimationServer.runtimeconfig.json
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\bin\Debug\net8.0-windows\BandwidthEstimationServer.dll
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\bin\Debug\net8.0-windows\BandwidthEstimationServer.pdb
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.dll
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\refint\BandwidthEstimationServer.dll
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.pdb
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\BandwidthEstimationServer.genruntimeconfig.cache
+C:\Users\Karthik\source\repos\BandwidthEstimationServer\BandwidthEstimationServer\obj\Debug\net8.0-windows\ref\BandwidthEstimationServer.dll
