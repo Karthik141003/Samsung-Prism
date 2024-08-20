@@ -1,7 +1,5 @@
 # **Bandwidth Estimation Algorithm in Multi-device Experience Use Cases**
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Bandwidth+Estimation+Algorithm+in+Multi-device+Experience+Use+Cases)
-
 ## **Overview**
 
 This project focuses on developing a **Bandwidth Estimation Algorithm** for various use cases involving multiple devices. The core objective is to create a robust system that can dynamically estimate the available bandwidth in both wired and wireless channels, ensuring optimal performance across different network conditions. 
