@@ -19,14 +19,14 @@ The project involves building both a Windows application and an Android APK that
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Bandwidth-Estimation-Algorithm.git
+   git clone https://github.com/Karthik141003/Samsung-Prism.git
    ```
 2. Navigate to the `PC App` directory:
    ```bash
-   cd PC App/app
+   cd PC App/TcpMessageSender
    ```
 3. Build the solution in Visual Studio:
-   - Open `app.sln` in Visual Studio.
+   - Open `TcpMessageSender.sln` in Visual Studio.
    - Build the project by selecting `Build > Build Solution`.
 
 4. Run the application:
@@ -36,7 +36,7 @@ The project involves building both a Windows application and an Android APK that
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Bandwidth-Estimation-Algorithm.git
+   git clone https://github.com/Karthik141003/Samsung-Prism.git
    ```
 2. Open the project in Android Studio:
    - Navigate to the `Android APK` directory.
