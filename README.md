@@ -23,10 +23,10 @@ The project involves building both a Windows application and an Android APK that
    ```
 2. Navigate to the `PC App` directory:
    ```bash
-   cd PC App/TcpMessageSender
+   cd PC App/BandwidthEstimationServer
    ```
 3. Build the solution in Visual Studio:
-   - Open `TcpMessageSender.sln` in Visual Studio.
+   - Open `BandwidthEstimationServer.sln` in Visual Studio.
    - Build the project by selecting `Build > Build Solution`.
 
 4. Run the application:
